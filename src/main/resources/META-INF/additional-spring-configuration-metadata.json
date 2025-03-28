@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "Spring.kafka.consumer.bootstrap.server",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.kafka.consumer.bootstrap.server'"
+  },
+  {
+    "name": "Spring.kafka.consumer.key-serializer",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.kafka.consumer.key-serializer'"
+  },
+  {
+    "name": "Spring.kafka.consumer.value-serializer",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.kafka.consumer.value-serializer'"
+  },
+  {
+    "name": "topicname",
+    "type": "java.lang.String",
+    "description": "A description for 'topicname'"
+  }
+]}
